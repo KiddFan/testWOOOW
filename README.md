@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/KiddFan/testWOOOW?branch=master)](https://travis-ci.org/KiddFan/testWOOOW)
+[![Build Status](https://travis-ci.org/KiddFan/testWOOOW.svg?branch=master)](https://travis-ci.org/KiddFan/testWOOOW)
