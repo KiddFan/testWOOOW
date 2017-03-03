@@ -4,13 +4,12 @@ node_js:
   - "4"
   - "5"
 
-install:
-  - composer install --prefer-dist --no-dev --optimize-autoloader --quiet
+install: npm install
 
 notifications:
   email:
     recipients:
-      - oomusou@gmail.com
+      - kidd.fan@104.com.tw
     on_success: always
     on_failure: always
 
